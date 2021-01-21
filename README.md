@@ -6,5 +6,5 @@ pc/laptop. If NOT then firstly please install latest version of
 git software using link: https://git-scm.com/downloads )
 
 There are two parts:
-Part 1: Add SSH key 
+Part 1: Add SSH key ,
 Part 2: Upload Code/Project/ Repository on GitHub using Commands
